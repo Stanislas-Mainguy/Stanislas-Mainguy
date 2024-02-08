@@ -1,5 +1,5 @@
 # Welcome to Stanislas's page 👋<br>
-# Bienvenue sur la page de Stanislas 👋# Welcome to Stanislas's page 👋
+# Bienvenue sur la page de Stanislas 👋
 
 Je suis un **Développeur Web Junior** passionné par la création de sites web modernes et réactifs.<br> 
 J'aime transformer des idées en code et créer des expériences numériques.
