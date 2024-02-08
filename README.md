@@ -31,11 +31,10 @@ I love turning ideas into code and creating digital experiences.
 
 ## 🗂️ Mon Portfolio
 
-Découvrez mes projets et compétences en développement web sur mon portfolio :
+Découvrez mes projets et compétences en développement web sur mon portfolio :<br>
 Discover my projects and web development skills on my portfolio :
 
-[![Portfolio](🗂️)](https://stanislas-portfolio.netlify.app/)
-
+[![Portfolio](https://stanislas-portfolio.netlify.app/)
 
 ## 📫 Contactez-moi / Contact me
 
