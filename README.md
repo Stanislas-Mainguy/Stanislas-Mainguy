@@ -36,4 +36,3 @@ For any collaboration, questions, or just to say hello, feel free to contact me:
 
 - 📧 [Email](stanislas.mainguy.dev@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/stanislas-mainguy-174a962b3/)
-
