@@ -1,4 +1,4 @@
-Bienvenue sur la page de Stanislas 👋<br>
+Bienvenue sur la page de Stanislas 👋  
 
 ---------------------------------------------------------------------------------------------------------------
 
