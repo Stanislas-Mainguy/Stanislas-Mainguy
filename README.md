@@ -1,4 +1,7 @@
-Bienvenue sur la page de Stanislas 👋
+Bienvenue sur la page de Stanislas 👋<br>
+
+---------------------------------------------------------------------------------------------------------------
+
 Je suis un Développeur Web Junior passionné par la création de sites web modernes et réactifs. J'aime transformer des idées en code et créer des expériences numériques qui impressionnent.
 
 💼 À propos de moi
