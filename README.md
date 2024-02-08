@@ -29,17 +29,18 @@ I love turning ideas into code and creating digital experiences.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)<br>
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-## Mon Portfolio
+## 🗂️ Mon Portfolio
 
-Découvrez mes projets et compétences en développement web sur mon portfolio:
+Découvrez mes projets et compétences en développement web sur mon portfolio :
+Discover my projects and web development skills on my portfolio :
 
-[![Portfolio](lien_vers_une_petite_image_de_votre_portfolio)](https://stanislas-portfolio.netlify.app/)
+[![Portfolio](🗂️)](https://stanislas-portfolio.netlify.app/)
 
 
 ## 📫 Contactez-moi / Contact me
 
 Pour toute collaboration, question ou simplement pour dire bonjour, n'hésitez pas à me contacter :<br>
-For any collaboration, questions, or just to say hello, feel free to contact me:
+For any collaboration, questions, or just to say hello, feel free to contact me :
 
-- 📧 [Email](stanislas.mainguy.dev@gmail.com)
+- 📧 [Email](stan.mainguy@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/stanislas-mainguy-174a962b3/)
