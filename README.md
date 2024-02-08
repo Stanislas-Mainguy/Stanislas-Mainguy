@@ -12,6 +12,12 @@ I love turning ideas into code and creating digital experiences.
 - 📚 En train d'apprendre **Python**, **Node.js**, et **PHP** pour élargir mes compétences en backend.<br>
 - 🎯 Objectif : Devenir un développeur full-stack maîtrisant à la fois le front-end et le back-end.<br>
 
+## 💼 About Me
+
+- 🌱 Currently, I mainly work with **HTML5**, **CSS3**, **SASS**, **JavaScript**, and **React**.<br>
+- 📚 Learning **Python**, **Node.js**, and **PHP** to expand my backend skills.<br>
+- 🎯 Goal: To become a full-stack developer proficient in both front-end and back-end.<br>
+
 ## 🛠️ Compétences Techniques
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
