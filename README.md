@@ -9,7 +9,7 @@ I love turning ideas into code and creating digital experiences.
 
 - 🌱 Actuellement, je travaille principalement avec **HTML5**, **CSS3**, **SASS**, **JavaScript**, et **React**.<br>
 - 📚 En train d'apprendre **Python**, **Node.js**, et **PHP** pour élargir mes compétences en backend.<br>
-- 🎯 Objectif : Devenir un développeur full-stack maîtrisant à la fois le front-end et le back-end.<br>
+- 🎯 Objectif : Devenir un développeur full-stack maîtrisant à la fois le front-end et le back-end.<br><br>
 
 - 🌱 Currently, I mainly work with **HTML5**, **CSS3**, **SASS**, **JavaScript**, and **React**.<br>
 - 📚 Learning **Python**, **Node.js**, and **PHP** to expand my backend skills.<br>
