@@ -34,6 +34,6 @@ I love turning ideas into code and creating digital experiences.
 Pour toute collaboration, question ou simplement pour dire bonjour, n'hésitez pas à me contacter :<br>
 For any collaboration, questions, or just to say hello, feel free to contact me:
 
-- 📧 [Email](mailto:votre-email@exemple.com)
-- 🔗 [LinkedIn](#) (ajoutez le lien de votre profil)
+- 📧 [Email](stanislas.mainguy.dev@gmail.com)
+- 🔗 [LinkedIn](#) (https://www.linkedin.com/in/stanislas-mainguy-174a962b3/)
 - 🐦 [Twitter](#) (ajoutez le lien de votre profil)
