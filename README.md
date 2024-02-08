@@ -37,3 +37,6 @@ For any collaboration, questions, or just to say hello, feel free to contact me:
 - 📧 [Email](mailto:votre-email@exemple.com)
 - 🔗 [LinkedIn](#) (ajoutez le lien de votre profil)
 - 🐦 [Twitter](#) (ajoutez le lien de votre profil)
+---
+___
+***
