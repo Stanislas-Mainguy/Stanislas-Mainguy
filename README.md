@@ -1,17 +1,17 @@
 # Bienvenue sur la page de Stanislas / Welcome to Stanislas's page 👋
 
-Je suis un **Développeur Front-End React** passionné par la création de sites web modernes et réactifs.<br> 
+Je suis un **Développeur Front-End React.js** passionné par la création de sites web modernes et réactifs.<br> 
 J'aime transformer des idées en code et créer des expériences numériques.<br><br>
-I am a passionate **Front-End React Developer** specializing in creating modern and responsive websites.<br>
+I am a passionate **Front-End React.js Developer** specializing in creating modern and responsive websites.<br>
 I love turning ideas into code and creating digital experiences.
 
 ## 💼 À propos de moi / About Me
 
-- 🌱 Actuellement, je travaille principalement avec **HTML5**, **CSS3**, **SASS**, **JavaScript**, et **React**.<br>
+- 🌱 Actuellement, je travaille principalement avec **HTML5**, **CSS3**, **SASS**, **JavaScript**, et **React.js**.<br>
 - 📚 En train d'apprendre **Python**, **Node.js**, et **PHP** pour élargir mes compétences en backend.<br>
 - 🎯 Objectif : Devenir un développeur full-stack maîtrisant à la fois le front-end et le back-end.<br><br>
 
-- 🌱 Currently, I mainly work with **HTML5**, **CSS3**, **SASS**, **JavaScript**, and **React**.<br>
+- 🌱 Currently, I mainly work with **HTML5**, **CSS3**, **SASS**, **JavaScript**, and **React.js**.<br>
 - 📚 Learning **Python**, **Node.js**, and **PHP** to expand my backend skills.<br>
 - 🎯 Goal: To become a full-stack developer proficient in both front-end and back-end.<br>
 
