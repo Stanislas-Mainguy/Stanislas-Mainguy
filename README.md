@@ -1,7 +1,8 @@
-# Welcome to Stanislas's page / Bienvenue sur la page de Stanislas 👋
+# Welcome to Stanislas's page / Bienvenue sur la page de Stanislas👋  
 
 I am a passionate **Front-End React.js Developer** specializing in creating modern and responsive websites.  
 I love turning ideas into code and creating digital experiences.  
+
 Je suis un **Développeur Front-End React.js** passionné par la création de sites web modernes et réactifs.  
 J'aime transformer des idées en code et créer des expériences numériques.  
 
