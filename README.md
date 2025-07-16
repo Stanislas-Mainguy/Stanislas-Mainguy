@@ -12,7 +12,8 @@ J'aime transformer des idées en code et créer des expériences numériques.
 - 📚 Learning **Python**, **Node.js**, and **PHP** to expand my backend skills.  
 - 🎯 Goal: To become a full-stack developer proficient in both front-end and back-end.
 
-  
+
+
 - 🌱 Actuellement, je travaille principalement avec **HTML5**, **CSS3**, **SASS**, **JavaScript**, et **React.js**.  
 - 📚 En train d'apprendre **Python**, **Node.js**, et **PHP** pour élargir mes compétences en backend.  
 - 🎯 Objectif : Devenir un développeur full-stack maîtrisant à la fois le front-end et le back-end.  
