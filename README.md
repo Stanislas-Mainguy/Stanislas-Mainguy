@@ -21,7 +21,7 @@
 ## 👨‍💻 Cybersecurity Projects & Labs / Projets & Labs Cybersécurité
 
 ➡️ Main repository for security labs and exercises:  
-🔗 [cyber-projects/](https://github.com/StanCyber/cyber-projects)
+🔗 [Cyber-Projects/](https://github.com/Stanislas-Mainguy/Cyber-Projects)
 
 ### 🧩 Topics / Sujets abordés :
 
