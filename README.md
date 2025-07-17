@@ -54,6 +54,8 @@
 ---
 
 ## 🧑‍💻 Front-End Dev Background / Mon Passé de Dev Front-End
+➡️ Main repository for frontend:  
+🔗 [Front-End-Projects/](https://github.com/Stanislas-Mainguy/Front-End-Projects)
 
 🌐 I also have a background in web development, mainly with:
 
