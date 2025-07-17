@@ -53,6 +53,14 @@
 
 ---
 
+## 🛡️ Certification
+
+### Google Cybersecurity Certificate
+
+📅 Obtenu via Coursera / Google - Juillet 2025
+
+---
+
 ## 🧑‍💻 Front-End Dev Background / Mon Passé de Dev Front-End
 ➡️ Main repository for frontend:  
 🔗 [Front-End-Projects/](https://github.com/Stanislas-Mainguy/Front-End-Projects)
